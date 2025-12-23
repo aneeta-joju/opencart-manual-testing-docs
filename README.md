@@ -1,2 +1,4 @@
-# OpenCart-testing-docs
-OpenCart Manual testing documents – test cases, scenarios, bug reports
+This project is created to practice manual testing on a real-time eCommerce application using OpenCart, covering test case design, execution, defect reporting, and traceability.
+
+Official OpenCart link:
+https://www.opencart.com/
